@@ -3,7 +3,6 @@
 **Safe market-making for altcoins.**  
 Zero Spread is a team of altcoin founders & experienced traders building a no-frills market-making desk that helps token projects stay listed, liquid, and compliant.
 
----
 
 ## 🚀 What We Do
 
@@ -16,7 +15,6 @@ Zero Spread is a team of altcoin founders & experienced traders building a no-
 - **Transparent & tailored solutions**  
   We design our interventions to match each project’s token dynamics and exchange requirements, with continuous monitoring.
 
----
 
 ## 🔍 Why It Matters
 
@@ -29,22 +27,16 @@ With Zero Spread, you get:
 | 🧠 **Strategic guidance** | Focused on long-term viability and compliance with exchange rules. |
 | 📈 **Listing security** | Tools and support focused on preventing delisting and maintaining visibility. |
 
----
 
 ## 📞 Learn More
 
 - 🌐 Website: [zerospread.io](https://zerospread.io)  
 - 📬 Email: contact@zerospread.io
 
----
 
 ## 🛠️ How to Work With Us
 
 1. **Tell us your token and goals.**  
 2. We tailor a liquidity strategy adapted to your market structure.  
 3. You get continuous reporting & exchange-standard compliance.
-
----
-
-[zerospread.io](https://zerospread.io)
 
